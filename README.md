@@ -1,3 +1,12 @@
+███████╗██████╗ ███████╗██████╗     ██████╗ ██████╗ ███████╗ █████╗ ██████╗ ██╗  ██╗
+██╔════╝██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██║ ██╔╝
+█████╗  ██████╔╝█████╗  ██████╔╝    ██████╔╝██████╔╝█████╗  ███████║██████╔╝█████╔╝ 
+██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗    ██╔══██╗██╔══██╗██╔══╝  ██╔══██║██╔══██╗██╔═██╗ 
+███████╗██║  ██║███████╗██║  ██║    ██║  ██║██║  ██║███████╗██║  ██║██║  ██║██║  ██╗
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+              AWS CLOUD BREACH — DFIR CASE STUDY
+
 # ☁️ AWS Cloud Breach — DFIR Case Study
 
 A full end‑to‑end digital forensics and incident response (DFIR) investigation of a simulated AWS cloud breach. This project demonstrates real-world cloud security analysis, detection engineering, and incident reporting workflows used by SOC and DFIR teams.
